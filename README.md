@@ -1,5 +1,9 @@
 # 7.06, cell biology
 
+## course info
+
+- textbook: **Lodish et al., Molecular Cell Biology**
+
 ## course schedule
 
 | completed | date | ses # | topics                                                                                                                                                | readings                                                   |
